@@ -7,7 +7,7 @@ export default defineConfig({
   build: {
     rollupOptions: {
       external: [            
-        /img/footer/footer_linkedin.png
+        '/img/footer/footer_linkedin.png'
       ]
     }
   },
